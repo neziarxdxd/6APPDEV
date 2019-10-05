@@ -1,7 +1,7 @@
 # 6-APPDEV
 
 
-## Property of Raizen sangalang
+*Property of Raizen sangalang*
 
 # TicTacToe
 This is only a simple tictactoe program in our class Application development 
