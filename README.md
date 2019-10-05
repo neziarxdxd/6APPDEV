@@ -1,3 +1,8 @@
+# 6-APPDEV
+
+
+## Property of Raizen sangalang
+
 # TicTacToe
 This is only a simple tictactoe program in our class Application development 
 
@@ -9,5 +14,3 @@ Object-oriented programming is a programming paradigm based on the concept of "o
 
 Paper–rock–scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors".\
 
-
-## Property of Raizen sangalang
