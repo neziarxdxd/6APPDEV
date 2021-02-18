@@ -30,5 +30,4 @@ Object-oriented programming is a programming paradigm based on the concept of "o
 
 <a href="https://github.com/raizengxd/6APPDEV/blob/master/Rock%20Paper%20and%20Scissors/MyApplication0099.rar">Download Here</a>
 
-Paper–rock–scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors".\
 
